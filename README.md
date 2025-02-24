@@ -5,3 +5,5 @@ This repository contains various NetLogo models that have primarily been develop
 * **Search**: demonstrates the difference between random, Levy and spiral search.
 * **ALV**: demonstrates homing using an 'average landmark vector' (ALV).
 * **PF**: demonstrates the action of a 'potential field'.
+
+NetLogo is available (for free) at https://ccl.northwestern.edu/netlogo/
